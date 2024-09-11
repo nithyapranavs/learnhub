@@ -1,0 +1,38 @@
+1660022602270	geckodriver	INFO	Listening on 127.0.0.1:53814
+1660022602794	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53815" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wl/qw7yq_rj28vfgznv4hprsqym0000gn/T/rust_mozprofilehP3MKt"
+1660022603354	Marionette	INFO	Marionette enabled
+2022-08-09 10:53:23.355 plugin-container[17106:2380442] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-09 10:53:23.362 plugin-container[17106:2380442] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660022603387	Marionette	INFO	Listening on port 53820
+WebDriver BiDi listening on ws://localhost:53815
+Read port: 53820
+2022-08-09 10:53:23.427 plugin-container[17106:2380442] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-09 10:53:23.427 plugin-container[17106:2380442] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-09 10:53:23.429 plugin-container[17106:2380440] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-09 10:53:23.429 plugin-container[17106:2380440] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660022603751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wl/qw7yq_rj28vfgznv4hprsqym0000gn/T/rust_mozprofilehP3MKt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53815/devtools/browser/de816a6b-f896-49fa-aa73-6ef41dc1d170
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1660022606016	Marionette	INFO	Stopped listening on port 53820
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 69: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1660022630451	geckodriver	INFO	Listening on 127.0.0.1:53876
+1660022630460	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53877" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wl/qw7yq_rj28vfgznv4hprsqym0000gn/T/rust_mozprofile5KARkn"
+1660022630970	Marionette	INFO	Marionette enabled
+2022-08-09 10:53:50.978 plugin-container[17170:2381126] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-09 10:53:50.979 plugin-container[17170:2381126] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660022630999	Marionette	INFO	Listening on port 53880
+2022-08-09 10:53:51.000 plugin-container[17170:2381126] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-09 10:53:51.000 plugin-container[17170:2381126] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:53877
+2022-08-09 10:53:51.005 plugin-container[17170:2381130] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-09 10:53:51.005 plugin-container[17170:2381130] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 53880
+1660022631240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wl/qw7yq_rj28vfgznv4hprsqym0000gn/T/rust_mozprofile5KARkn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53877/devtools/browser/ef2778dd-0050-45a0-b302-a3ac8d6cf4c6
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+1660022633694	Marionette	INFO	Stopped listening on port 53880
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 69: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
